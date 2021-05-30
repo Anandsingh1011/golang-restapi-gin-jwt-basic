@@ -1,5 +1,7 @@
 # Golang Gin Framework - Video API 
 
+Golang REST API with basic jwt authentication using gin framework
+
 ## Run
 
 ```bash
