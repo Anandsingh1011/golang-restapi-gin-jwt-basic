@@ -1,4 +1,4 @@
-# Golang Gin Framework - Video API (
+# Golang Gin Framework - Video API 
 
 ## Run
 
